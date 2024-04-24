@@ -1,0 +1,151 @@
+body{
+    padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        background-image: linear-gradient(#1a0e0f, #140b0b, #0d0708, #070404, #000000);
+      }
+    .container-table{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom:20%;
+   
+    }
+    .title{
+        color: aliceblue;
+        text-align: center;
+         margin: 0;
+         padding-top:5%;
+         padding-bottom: 5%;
+    }
+    .number>th{
+        padding-bottom:10%;
+    }
+    .number-thead, .vertical-number{
+        font-size: 12px;
+        color: #f0f0f0;
+    }
+    .vertical-number{
+        color: antiquewhite;
+        position: absolute;
+        padding-top:25px;
+        left:7%;
+    }
+    
+
+    .tbody>td{
+        text-align: center;
+        font-size: 12px;
+        width: 80px;
+        height: 60px;
+        color: #f0f0f0;
+       border-radius: 7px;
+     
+       
+    }
+    
+    .tfoot>td{
+        text-align: center;
+        font-size: 12px;
+        width: 80px;
+        height: 60px;
+        color: #f0f0f0;
+       border-radius: 7px;
+    }
+
+td{
+    cursor:pointer;
+}
+
+    .hydrogen-color{
+         background-color: #0d6efd; 
+    }
+    .col-1{
+        background-color: #6f42c1;
+    }
+    .col-2{
+        background-color: #d63384;
+    }
+    .col-003,
+    .col-4,
+    .col-5,
+    .col-6,
+    .col-7,
+    .col-8,
+    .col-9,
+    .col-10,
+    .col-11,
+    .col-12{
+        background-color: #fd7e14;
+    }
+    .col-03{
+        background-color: #dc3545;
+    }
+    .col-3{
+        background-color: #af0b1b;
+    }
+    .col-013,
+    .col-014,
+    .col-015,
+    .col-016,
+    .col-17{
+        background-color: #198754;
+    }
+    .col-13,
+    .col-14,
+    .col-15,
+    .col-16{
+        background-color: #0dcaf0;
+    }
+    .col-18{
+        background-color: #ffc107;
+    }
+
+    .tfoot>td{
+        margin-top: 5%;
+    }
+    
+    footer{
+        width: 100%;
+        padding: 1px;
+        background-color: #1b1a1a;
+        text-align: center;
+        color: #f0f0f0;
+    }
+   h3{
+    margin: 0;
+    padding-bottom: 2px;
+    font-size: 13px;
+   }
+    h4{
+    margin: 0;
+    font-size: 11px;
+    padding-bottom: 1px;
+ 
+   }
+   h5{
+    text-align: end;
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 3px;
+    margin: 6px;
+    font-size: 10px;
+
+   }
+   .card{
+    position:fixed;
+    width: 15%;
+    height:25vh;
+    bottom:10%;
+    margin: 0;
+    left: 40%;
+    right:50%;
+    border-radius: 7px;
+    background-color: #1c1d1dc2;
+    text-align: center;
+    font-size: 25px;
+    color: #f5f2f2;
+   }
+   
+  
