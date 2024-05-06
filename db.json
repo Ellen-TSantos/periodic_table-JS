@@ -1,0 +1,1183 @@
+{
+  "elements": [
+    {
+      "id":"01"
+,      "Name": "Hidrogênio",
+      "Physical_State": "Gasoso",
+      "Symbol": "H",
+      "Atomic_Number": 1,
+      "Atomic_Mass": "Cerca de 1,008 u",
+      "Type": "Um gás incolor e altamente inflamável, é o elemento mais abundante do universo. É encontrado em muitos compostos, como a água e os hidrocarbonetos, e é essencial para a vida."
+     },
+    {
+      "id":"02" ,   
+      "Name": "Hélio",
+      "Physical_State": "Gasoso",
+      "Symbol": "He",
+      "Atomic_Number": 2,
+      "Atomic_Mass": "Cerca de 4,0026 u",
+      "Type": "Um gás inerte, é o segundo elemento mais abundante do universo. É usado em aplicações como resfriamento em baixas temperaturas, em balões e em ressonância magnética."
+     },
+    {
+      "id":"03" ,   
+      "Name": "Lítio",
+      "Physical_State": "Sólido",
+      "Symbol": "Li",
+      "Atomic_Number": 3,
+      "Atomic_Mass": "Cerca de 6,94 u",
+      "Type": "Um metal alcalino macio, é altamente reativo e usado em baterias recarregáveis, ligas metálicas e medicamentos psiquiátricos."
+
+ },
+    {
+      "id":"04" ,      
+      "Name": "Berílio",
+      "Physical_State": "Sólido",
+      "Symbol": "Be",
+      "Atomic_Number": 4,
+      "Atomic_Mass": "Cerca de 9,0122 u",
+      "Type": " Um metal leve e rígido, é usado em ligas metálicas para aplicações aeroespaciais, em equipamentos nucleares e em dispositivos médicos."
+
+ },
+    {
+      "id":"05" ,
+      "Name": "Boro",
+      "Physical_State": "Sólido",
+      "Symbol": "B",
+      "Atomic_Number": 5,
+      "Atomic_Mass": "Cerca de 10,81 u",
+      "Type": "Um metaloide sólido, é usado em materiais de alta resistência, como fibras de vidro e cerâmicas, e em produtos químicos."
+
+ },
+    {
+      "id":"06" , 
+      "Name": "Carbono",
+      "Physical_State": "Sólido",
+      "Symbol": "C",
+      "Atomic_Number": 6,
+      "Atomic_Mass": "Cerca de 12,011 u",
+      "Type": "Um não-metal sólido, é a base da vida na Terra e encontrado em uma variedade de formas, incluindo grafite, diamante e compostos orgânicos."
+
+ },
+    {
+      "id":"07" ,   
+      "Name": "Nitrogênio",
+      "Physical_State": "Gasoso",
+      "Symbol": "N",
+      "Atomic_Number": 7,
+      "Atomic_Mass": "Cerca de 14,007 u",
+      "Type": " Um gás diatômico incolor, é essencial para a vida e é usado em fertilizantes agrícolas, em processos industriais e em enchimentos de alimentos."
+
+ },
+    {
+      "id":"08" , 
+      "Name": "Oxigênio",
+      "Physical_State": "Gasoso",
+      "Symbol": "O",
+      "Atomic_Number": 8,
+      "Atomic_Mass": "Cerca de 15,999 u",
+      "Type": " Um gás diatômico essencial para a vida, é usado na respiração, na combustão e na produção de aço e vidro."
+
+ },
+    {
+      "id":"09" ,   
+      "Name": "Flúor",
+      "Physical_State": "Gasoso",
+      "Symbol": "F",
+      "Atomic_Number": 9,
+      "Atomic_Mass": "Cerca de 18,998 u",
+      "Type": "Um gás diatômico altamente reativo, é usado em tratamentos dentários, em produtos de higiene bucal e na produção de fluoretos."
+
+ },
+    {
+      "id":"010",
+      "Name": "Neônio",
+      "Physical_State": "Gasoso",
+      "Symbol": "Ne",
+      "Atomic_Number": 10,
+      "Atomic_Mass": "Cerca de 20,180 u",
+      "Type": " Um gás nobre inerte, é usado em lâmpadas de néon para sinalização, em lasers e em detectores de partículas."
+
+ },
+    {
+      "id":"011",   
+      "Name": "Sódio",
+      "Physical_State": "Sólido",
+      "Symbol": "Na",
+      "Atomic_Number": 11,
+      "Atomic_Mass": "Cerca de 22,990 u",
+      "Type": "Um metal alcalino macio, é amplamente utilizado na indústria química, em processos de dessalinização, e como agente redutor em metalurgia."
+
+ },
+    {
+      "id":"012",   
+      "Name": "Magnésio",
+      "Physical_State": "Sólido",
+      "Symbol": "Mg",
+      "Atomic_Number": 12,
+      "Atomic_Mass": "Cerca de 24,305 u",
+      "Type": "Um metal alcalino-terroso leve, é usado em ligas metálicas para construção de aviões e automóveis, em fogos de artifício e em medicamentos antiácidos."
+
+ },
+    {
+      "id":"013",    
+      "Name": "Alumínio",
+      "Physical_State": "Sólido",
+      "Symbol": "Al",
+      "Atomic_Number": 13,
+      "Atomic_Mass": "Cerca de 26,982 u",
+      "Type": "Um metal leve e resistente à corrosão, é amplamente utilizado em embalagens, construção civil, indústria aeroespacial e em utensílios domésticos."
+
+ },
+    {
+      "id":"014",   
+      "Name": "Silício",
+      "Physical_State": "Sólido",
+      "Symbol": "Si",
+      "Atomic_Number": 14,
+      "Atomic_Mass": "Cerca de 28,085 u",
+      "Type": "Um metaloide sólido, é o segundo elemento mais abundante na crosta terrestre e é usado na fabricação de chips de computador, painéis solares e vidros."
+
+ },
+    {
+      "id":"015",  
+      "Name": "Fósforo",
+      "Physical_State": "Sólido",
+      "Symbol": "P",
+      "Atomic_Number": 15,
+      "Atomic_Mass": "Cerca de 30,974 u",
+      "Type": " Um não-metal sólido, é essencial para a vida e é usado na fabricação de fertilizantes, fósforos e detergentes."
+
+ },
+    {
+      "id":"016",   
+      "Name": "Enxofre",
+      "Physical_State": "Sólido",
+      "Symbol": "S",
+      "Atomic_Number": 16,
+      "Atomic_Mass": "Cerca de 32,06 u",
+      "Type": "Um não-metal sólido, é usado na produção de ácido sulfúrico, fertilizantes, borracha vulcanizada e em inseticidas."
+
+ },
+    {
+      "id":"017",    
+      "Name": "Cloro",
+      "Physical_State": "Gasoso",
+      "Symbol": "Cl",
+      "Atomic_Number": 17,
+      "Atomic_Mass": "Cerca de 35,45 u",
+      "Type": "Um gás diatômico altamente reativo, é usado na purificação de água potável, na produção de plásticos e produtos químicos e em agentes de branqueamento."
+
+ },
+    {
+      "id":"018",    
+      "Name": "Argônio",
+      "Physical_State": "Gasoso",
+      "Symbol": "Ar",
+      "Atomic_Number": 18,
+      "Atomic_Mass": "Cerca de 39,948 u",
+      "Type": " Um gás nobre inerte, é usado em lâmpadas de filamento, em processos de soldagem, e como gás inerte em processos industriais."
+
+ },
+    {
+      "id":"019",    
+      "Name": "Potássio",
+      "Physical_State": "Sólido",
+      "Symbol": "K",
+      "Atomic_Number": 19,
+      "Atomic_Mass": "Cerca de 39,098 u",
+      "Type": " Um metal alcalino macio, é usado em fertilizantes agrícolas, na produção de sabão, em medicamentos e na regulação do equilíbrio de fluidos no corpo humano."
+
+ },
+    {
+      "id":"020",   
+      "Name": "Cálcio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ca",
+      "Atomic_Number": 20,
+      "Atomic_Mass": "Cerca de 40,078 u",
+      "Type": "Um metal alcalino-terroso, é essencial para a formação de ossos e dentes, na transmissão de sinais nervosos e na coagulação do sangue."
+
+ },
+    {
+      "id":"021",
+      "Name": "Escândio",
+      "Physical_State": "Sólido",
+      "Symbol": "Sc",
+      "Atomic_Number": 21,
+      "Atomic_Mass": "Cerca de 44,956 u",
+      "Type": "Um metal de transição, é usado em ligas de alumínio para aviões, em lâmpadas de vapor de mercúrio e em equipamentos esportivos."
+
+ },
+    {
+      "id":"022",   
+      "Name": "Titânio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ti",
+      "Atomic_Number": 22,
+      "Atomic_Mass": "Cerca de 47,867 u",
+      "Type": "Um metal de transição leve e resistente à corrosão, é usado em ligas metálicas para aeroespacial, implantes médicos, e na produção de pigmentos."
+
+ },
+    {
+      "id":"023",
+      "Name": "Vanádio",
+      "Physical_State": "Sólido",
+      "Symbol": "V",
+      "Atomic_Number": 23,
+      "Atomic_Mass": "Cerca de 50,942 u",
+      "Type": " Um metal de transição, é usado em ligas de aço para ferramentas, em ímãs permanentes e em catalisadores químicos."
+
+ },
+    {
+      "id":"024",   
+      "Name": "Cromo",
+      "Physical_State": "Sólido",
+      "Symbol": "Cr",
+      "Atomic_Number": 24,
+      "Atomic_Mass": "Cerca de 51,996 u",
+      "Type": "Um metal de transição duro e resistente à corrosão, é usado em ligas de aço inoxidável, em cromoterapia e em pigmentos."
+
+ },
+    {
+      "id":"025",
+      "Name": "Manganês",
+      "Physical_State": "Sólido",
+      "Symbol": "Mn",
+      "Atomic_Number": 25,
+      "Atomic_Mass": "Cerca de 54,938 u",
+      "Type": "Um metal de transição, é usado em ligas metálicas, em baterias recarregáveis e na produção de aço."
+
+ },
+    {
+      "id":"026",
+      "Name": "Ferro",
+      "Physical_State": "Sólido",
+      "Symbol": "Fe",
+      "Atomic_Number": 26,
+      "Atomic_Mass": "Cerca de 55,845 u",
+      "Type": "Um metal de transição, é usado na fabricação de aço, em componentes mecânicos, e na hemoglobina do sangue."
+
+ },
+    {
+      "id":"027",    
+      "Name": "Cobalto",
+      "Physical_State": "Sólido",
+      "Symbol": "Co",
+      "Atomic_Number": 27,
+      "Atomic_Mass": "Cerca de 58,933 u",
+      "Type": "Um metal de transição, é usado em ligas metálicas de alta temperatura, em ímãs permanentes e em implantes médicos."
+
+ },
+    {
+      "id":"028",    
+      "Name": "Níquel",
+      "Physical_State": "Sólido",
+      "Symbol": "Ni",
+      "Atomic_Number": 28,
+      "Atomic_Mass": "Cerca de 58,693 u",
+      "Type": "Um metal de transição, é usado em ligas metálicas, em baterias recarregáveis e em revestimentos."
+
+ },
+    {
+      "id":"029",    
+      "Name": "Cobre",
+      "Physical_State": "Sólido",
+      "Symbol": "Cu",
+      "Atomic_Number": 29,
+      "Atomic_Mass": "Cerca de 63,546 u",
+      "Type": " Um metal de transição, é usado em fios elétricos, tubulações, moedas e em componentes eletrônicos."
+
+ },
+    {
+      "id":"030",    
+      "Name": "Zinco",
+      "Physical_State": "Sólido",
+      "Symbol": "Zn",
+      "Atomic_Number": 30,
+      "Atomic_Mass": "Cerca de 65,38 u",
+      "Type": "Um metal de transição, é usado em galvanização de metais, em suplementos alimentares, e em baterias."
+
+ },
+    {
+      "id":"031",  
+      "Name": "Gálio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ga",
+      "Atomic_Number": 31,
+      "Atomic_Mass": "Cerca de 69,723 u",
+      "Type": " Um metal de transição, é usado em semicondutores, em espelhos telescópicos, e em dispositivos optoeletrônicos."
+
+ },
+    {
+      "id":"032",    
+      "Name": "Germânio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ge",
+      "Atomic_Number": 32,
+      "Atomic_Mass": "Cerca de 72,63 u",
+      "Type": " Um metaloide, é usado em dispositivos semicondutores, em fibras ópticas, e em células solares."
+
+ },
+    {
+      "id":"033",   
+      "Name": "Arsênio",
+      "Physical_State": "Sólido",
+      "Symbol": "As",
+      "Atomic_Number": 33,
+      "Atomic_Mass": "Cerca de 74,922 u",
+      "Type": " Um metaloide, é usado em semicondutores, em pesticidas, e em medicamentos."
+
+ },
+    {
+      "id":"034",   
+      "Name": "Selênio",
+      "Physical_State": "Sólido",
+      "Symbol": "Se",
+      "Atomic_Number": 34,
+      "Atomic_Mass": "Cerca de 78,971 u",
+      "Type": "Um não-metal, é usado em células fotovoltaicas, em produtos farmacêuticos, e em processos de galvanização."
+
+ },
+    {
+      "id":"035", 
+      "Name": "Bromo",
+      "Physical_State": "Líquido",
+      "Symbol": "Br",
+      "Atomic_Number": 35,
+      "Atomic_Mass": "Cerca de 79,904 u",
+      "Type": "Um não-metal líquido, é usado em retardadores de chama, em tratamento de água, e em produtos farmacêuticos."
+
+ },
+    {
+      "id":"036",   
+      "Name": "Criptônio",
+      "Physical_State": "Gasoso",
+      "Symbol": "Kr",
+      "Atomic_Number": 36,
+      "Atomic_Mass": "Cerca de 83,798 u",
+      "Type": "Um gás nobre inerte, é usado em lâmpadas de alta intensidade, em lasers, e em aplicações de iluminação."
+
+ },
+    {
+      "id":"037", 
+      "Name": "Rubídio",
+      "Physical_State": "Sólido",
+      "Symbol": "Rb",
+      "Atomic_Number": 37,
+      "Atomic_Mass": "Cerca de 85,468 u",
+      "Type": " Um metal alcalino macio, é usado em células fotoelétricas, em relógios atômicos, e em pesquisas científicas."
+
+ },
+    {
+      "id":"038",    
+      "Name": "Estrôncio",
+      "Physical_State": "Sólido",
+      "Symbol": "Sr",
+      "Atomic_Number": 38,
+      "Atomic_Mass": "Cerca de 87,62 u",
+      "Type": "Um metal alcalino-terroso, é usado em pirotecnia, em materiais para tratamento de osteoporose, e em fogos de artifício."
+
+ },
+    {
+      "id":"039",   
+      "Name": "Ítrio",
+      "Physical_State": "Sólido",
+      "Symbol": "Y",
+      "Atomic_Number": 39,
+      "Atomic_Mass": "Cerca de 88,906 u",
+      "Type": "Um metal de transição, é usado em fósforos de tubos de raios catódicos, em ímãs permanentes, e em catalisadores."
+
+ },
+    {
+      "id":"040",
+      "Name": "Zircônio",
+      "Physical_State": "Sólido",
+      "Symbol": "Zr",
+      "Atomic_Number": 40,
+      "Atomic_Mass": "Cerca de 91,224 u",
+      "Type": "Um metal de transição, é usado em reatores nucleares, em cerâmicas de alta resistência e em joias."
+
+ },
+    {
+      "id":"041",
+      "Name": "Nióbio",
+      "Physical_State": "Sólido",
+      "Symbol": "Nb",
+      "Atomic_Number": 41,
+      "Atomic_Mass": "Cerca de 92,906 u",
+      "Type": "Um metal de transição, é usado em superligas para motores de aeronaves, em equipamentos médicos e em indústrias aeroespaciais."
+
+ },
+    {
+      "id":"042",   
+      "Name": "Molibdênio",
+      "Physical_State": "Sólido",
+      "Symbol": "Mo",
+      "Atomic_Number": 42,
+      "Atomic_Mass": "Cerca de 95,95 u",
+      "Type": "Um metal de transição, é usado em ligas metálicas de alta resistência, em catalisadores e em equipamentos de laboratório."
+
+ },
+    {
+      "id":"043", 
+      "Name": "Tecnécio",
+      "Physical_State": "Sólido",
+      "Symbol": "Tc",
+      "Atomic_Number": 43,
+      "Atomic_Mass": "Cerca de 98 u",
+      "Type": "Um elemento radioativo artificial, é usado em medicina nuclear para diagnósticos por imagem."
+
+ },
+    {
+      "id":"044",  
+      "Name": "Rutênio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ru",
+      "Atomic_Number": 44,
+      "Atomic_Mass": "Cerca de 101,07 u",
+      "Type": "Um metal de transição, é usado em catalisadores químicos, em joias e em dispositivos eletrônicos."
+
+ },
+    {
+      "id":"045",   
+      "Name": "Ródio",
+      "Physical_State": "Sólido",
+      "Symbol": "Rh",
+      "Atomic_Number": 45,
+      "Atomic_Mass": "Cerca de 102,91 u",
+      "Type": " Um metal de transição, é usado em catalisadores automotivos, em joias e em equipamentos de laboratório."
+
+ },
+    {
+      "id":"046",    
+      "Name": "Paládio",
+      "Physical_State": "Sólido",
+      "Symbol": "Pd",
+      "Atomic_Number": 46,
+      "Atomic_Mass": "Cerca de 106,42 u",
+      "Type": " Um metal de transição, é usado em catalisadores automotivos, em joias, e em aplicações odontológicas."
+
+ },
+    {
+      "id":"047",   
+      "Name": "Prata",
+      "Physical_State": "Sólido",
+      "Symbol": "Ag",
+      "Atomic_Number": 47,
+      "Atomic_Mass": "Cerca de 107,87 u",
+      "Type": "Um metal de transição, é usado em joias, em eletrônicos, e em fotografia."
+
+ },
+    {
+      "id":"048",    
+      "Name": "Cádmio",
+      "Physical_State": "Sólido",
+      "Symbol": "Cd",
+      "Atomic_Number": 48,
+      "Atomic_Mass": "Cerca de 112,41 u",
+      "Type": "Um metal de transição, é usado em baterias recarregáveis, em pigmentos e em revestimentos contra corrosão."
+
+ },
+    {
+      "id":"049",   
+      "Name": "Índio",
+      "Physical_State": "Sólido",
+      "Symbol": "In",
+      "Atomic_Number": 49,
+      "Atomic_Mass": "Cerca de 114,82 u",
+      "Type": "Um metal de transição, é usado em telas sensíveis ao toque, em semicondutores e em revestimentos ópticos."
+
+ },
+    {
+      "id":"050",    
+      "Name": "Estanho",
+      "Physical_State": "Sólido",
+      "Symbol": "Sn",
+      "Atomic_Number": 50,
+      "Atomic_Mass": "Cerca de 118,71 u",
+      "Type": "Um metal de transição, é usado em ligas metálicas, em revestimentos e em soldas."
+
+ },
+    {
+      "id":"051",   
+      "Name": "Antimônio",
+      "Physical_State": "Sólido",
+      "Symbol": "Sb",
+      "Atomic_Number": 51,
+      "Atomic_Mass": "Cerca de 121,76 u",
+      "Type": " Um metal de transição, é usado em ligas metálicas, em retardadores de chama e em medicamentos."
+
+ },
+    {
+      "id":"052",    
+      "Name": "Telúrio",
+      "Physical_State": "Sólido",
+      "Symbol": "Te",
+      "Atomic_Number": 52,
+      "Atomic_Mass": "Cerca de 127,6 u",
+      "Type": "Um metaloide, é usado em células fotovoltaicas, em ligas metálicas e em semicondutores."
+
+ },
+    {
+      "id":"053",   
+      "Name": "Iodo",
+      "Physical_State": "Sólido",
+      "Symbol": "I",
+      "Atomic_Number": 53,
+      "Atomic_Mass": "Cerca de 126,904 u",
+      "Type": "Um não-metal sólido, é usado em desinfetantes, em tratamentos médicos e em produtos químicos."
+
+ },
+    {
+      "id":"054",   
+      "Name": "Xenônio",
+      "Physical_State": "Gasoso",
+      "Symbol": "Xe",
+      "Atomic_Number": 54,
+      "Atomic_Mass": "Cerca de 131,293 u",
+      "Type": "Um gás nobre inerte, é usado em lâmpadas de xenônio, em lasers e em anestésicos."
+
+ },
+    {
+      "id":"055",   
+      "Name": "Césio",
+      "Physical_State": "Sólido",
+      "Symbol": "Cs",
+      "Atomic_Number": 55,
+      "Atomic_Mass": "Cerca de 132,905 u",
+      "Type": "Um metal alcalino macio, é usado em relógios atômicos, em detectores de radiação e em estudos de física nuclear."
+
+ },
+    {
+      "id":"056",   
+      "Name": "Bário",
+      "Physical_State": "Sólido",
+      "Symbol": "Ba",
+      "Atomic_Number": 56,
+      "Atomic_Mass": "Cerca de 137,327 u",
+      "Type": "Um metal alcalino-terroso, é usado em agentes de contraste para exames de imagem médica, em pirotecnia e em lâmpadas fluorescentes."
+
+ },
+    {
+      "id":"057",    
+      "Name": "Lantânio",
+      "Physical_State": "Sólido",
+      "Symbol": "La",
+      "Atomic_Number": 57,
+      "Atomic_Mass": "Cerca de 138,905 u",
+      "Type": "Um lantânideo, é usado em lâmpadas de arco de carbono, em catalisadores e em ímãs permanentes."
+
+ },
+    {
+      "id":"058",    
+      "Name": "Cério",
+      "Physical_State": "Sólido",
+      "Symbol": "Ce",
+      "Atomic_Number": 58,
+      "Atomic_Mass": "Cerca de 140,116 u",
+      "Type": "Um lantânideo, é usado em catalisadores automotivos, em polimento de vidros e em ímãs permanentes."
+
+ },
+    {
+      "id":"059",    
+      "Name": "Praseodímio",
+      "Physical_State": "Sólido",
+      "Symbol": "Pr",
+      "Atomic_Number": 59,
+      "Atomic_Mass": "Cerca de 140,907 u",
+      "Type": "Um lantânideo, é usado em ligas metálicas, em vidros para óculos e em cerâmicas."
+
+ },
+    {
+      "id":"060",   
+      "Name": "Neodímio",
+      "Physical_State": "Sólido",
+      "Symbol": "Nd",
+      "Atomic_Number": 60,
+      "Atomic_Mass": "Cerca de 144,242 u",
+      "Type": "Um lantânideo, é usado em ímãs de neodímio-ferro-boro, em lasers e em catalisadores."
+
+ },
+    {
+      "id":"061",
+      "Name": "Promécio",
+      "Physical_State": "Sólido",
+      "Symbol": "Pm",
+      "Atomic_Number": 61,
+      "Atomic_Mass": "Cerca de 145 u",
+      "Type": " Um elemento radioativo artificial, é usado em fontes de energia para sondas espaciais e em estudos científicos."
+
+ },
+    {
+      "id":"062",    
+      "Name": "Samário",
+      "Physical_State": "Sólido",
+      "Symbol": "Sm",
+      "Atomic_Number": 62,
+      "Atomic_Mass": "Cerca de 150,36 u",
+      "Type": "Um lantânideo, é usado em ímãs permanentes, em tratamentos contra o câncer e em catalisadores."
+
+ },
+    {
+      "id":"063",   
+      "Name": "Európio",
+      "Physical_State": "Sólido",
+      "Symbol": "Eu",
+      "Atomic_Number": 63,
+      "Atomic_Mass": "Cerca de 151,964 u",
+      "Type": "Um lantânideo, é usado em lâmpadas fluorescentes, em ímãs permanentes e em vidros para televisores."
+
+ },
+    {
+      "id":"064",    
+      "Name": "Gadolínio",
+      "Physical_State": "Sólido",
+      "Symbol": "Gd",
+      "Atomic_Number": 64,
+      "Atomic_Mass": "Cerca de 157,25 u",
+      "Type": "Um lantânideo, é usado em agentes de contraste para ressonância magnética, em ímãs permanentes e em pesquisas científicas."
+
+ },
+    {
+      "id":"065", 
+      "Name": "Térbio",
+      "Physical_State": "Sólido",
+      "Symbol": "Tb",
+      "Atomic_Number": 65,
+      "Atomic_Mass": "Cerca de 158,925 u",
+      "Type": "Um lantânideo, é usado em lâmpadas fluorescentes, em lasers e em ímãs permanentes."
+
+ },
+    {
+      "id":"066", 
+      "Name": "Disprósio",
+      "Physical_State": "Sólido",
+      "Symbol": "Dy",
+      "Atomic_Number": 66,
+      "Atomic_Mass": "Cerca de 162,5 u",
+      "Type": "Um lantânideo, é usado em ímãs permanentes, em lasers e em lâmpadas de vapor de mercúrio."
+
+ },
+    {
+      "id":"067", 
+      "Name": "Hólmio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ho",
+      "Atomic_Number": 67,
+      "Atomic_Mass": "Cerca de 164,930 u",
+      "Type": "Um lantânideo, é usado em lasers médicos, em ímãs permanentes e em vidros para óculos."
+
+ },
+    {
+      "id":"068", 
+      "Name": "Erbio",
+      "Physical_State": "Sólido",
+      "Symbol": "Er",
+      "Atomic_Number": 68,
+      "Atomic_Mass": "Cerca de 167,259 u",
+      "Type": " Um lantânideo, é usado em fibras ópticas, em lasers e em ímãs permanentes."
+
+ },
+    {
+      "id":"069", 
+      "Name": "Túlio",
+      "Physical_State": "Sólido",
+      "Symbol": "Tm",
+      "Atomic_Number": 69,
+      "Atomic_Mass": "Cerca de 168,934 u",
+      "Type": "Um lantânideo, é usado em ímãs permanentes, em lasers e em fontes de energia nuclear."
+
+ },
+    {
+      "id":"070", 
+      "Name": "Itérbio",
+      "Physical_State": "Sólido",
+      "Symbol": "Yb",
+      "Atomic_Number": 70,
+      "Atomic_Mass": "Cerca de 173,045 u",
+      "Type": "Um lantânideo, é usado em relógios atômicos, em lasers e em ímãs permanentes."
+
+ },
+    {
+      "id":"071", 
+      "Name": "Lutécio",
+      "Physical_State": "Sólido",
+      "Symbol": "Lu",
+      "Atomic_Number": 71,
+      "Atomic_Mass": "Cerca de 174,966 u",
+      "Type": "Um lantânideo, é usado em catalisadores, em lasers e em materiais cerâmicos."
+
+ },
+    {
+      "id":"072", 
+      "Name": "Háfnio",
+      "Physical_State": "Sólido",
+      "Symbol": "Hf",
+      "Atomic_Number": 72,
+      "Atomic_Mass": "Cerca de 178,49 u",
+      "Type": "Um metal de transição, é usado em reatores nucleares, em ligas metálicas de alta resistência e em semicondutores."
+
+ },
+    {
+      "id":"073", 
+      "Name": "Tântalo",
+      "Physical_State": "Sólido",
+      "Symbol": "Ta",
+      "Atomic_Number": 73,
+      "Atomic_Mass": "Cerca de 180,947 u",
+      "Type": "Um metal de transição, é usado em capacitores de alta performance, em implantes médicos e em ligas metálicas."
+
+ },
+    {
+      "id":"074", 
+      "Name": "Tungstênio",
+      "Physical_State": "Sólido",
+      "Symbol": "W",
+      "Atomic_Number": 74,
+      "Atomic_Mass": "Cerca de 183,84 u",
+      "Type": "Um metal de transição, é usado em filamentos de lâmpadas incandescentes, em ferramentas de corte e em blindagens contra radiação."
+
+ },
+    {
+      "id":"075", 
+      "Name": "Rênio",
+      "Physical_State": "Sólido",
+      "Symbol": "Re",
+      "Atomic_Number": 75,
+      "Atomic_Mass": "Cerca de 186,207 u",
+      "Type": "Um metal de transição, é usado em catalisadores químicos, em ligas metálicas de alta temperatura e em semicondutores."
+
+ },
+    {
+      "id":"076", 
+      "Name": "Ósmio",
+      "Physical_State": "Sólido",
+      "Symbol": "Os",
+      "Atomic_Number": 76,
+      "Atomic_Mass": "Cerca de 190,23 u",
+      "Type": " Um metal de transição, é usado em instrumentos de laboratório, em pontas de canetas e em catalisadores químicos."
+
+ },
+    {
+      "id":"077", 
+      "Name": "Irídio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ir",
+      "Atomic_Number": 77,
+      "Atomic_Mass": "Cerca de 192,217 u",
+      "Type": "Um metal de transição, é usado em pontas de canetas-tinteiro, em eletrodos de velas de ignição e em catalisadores químicos."
+
+ },
+    {
+      "id":"078", 
+      "Name": "Platina",
+      "Physical_State": "Sólido",
+      "Symbol": "Pt",
+      "Atomic_Number": 78,
+      "Atomic_Mass": "Cerca de 195,084 u",
+      "Type": "Um metal de transição, é usado em joias, em catalisadores automotivos e em dispositivos médicos."
+
+ },
+    {
+      "id":"079", 
+      "Name": "Ouro",
+      "Physical_State": "Sólido",
+      "Symbol": "Au",
+      "Atomic_Number": 79,
+      "Atomic_Mass": "Cerca de 196,966 u",
+      "Type": " Um metal de transição, é usado em joias, em eletrônicos e em medicina."
+
+ },
+    {
+      "id":"080", 
+      "Name": "Mercúrio",
+      "Physical_State": "Líquido",
+      "Symbol": "Hg",
+      "Atomic_Number": 80,
+      "Atomic_Mass": "Cerca de 200,592 u",
+      "Type": "Um metal líquido à temperatura ambiente, é usado em termômetros, em lâmpadas fluorescentes e em barômetros."
+
+ },
+    {
+      "id":"081", 
+      "Name": "Tálio",
+      "Physical_State": "Sólido",
+      "Symbol": "Tl",
+      "Atomic_Number": 81,
+      "Atomic_Mass": "Cerca de 204,38 u",
+      "Type": "Um metal macio e maleável, é usado em lentes ópticas, em células fotoelétricas e em medicina."
+
+ },
+    {
+      "id":"082", 
+      "Name": "Chumbo",
+      "Physical_State": "Sólido",
+      "Symbol": "Pb",
+      "Atomic_Number": 82,
+      "Atomic_Mass": "Cerca de 207,2 u",
+      "Type": " Um metal denso e maleável, é usado em baterias automotivas, em revestimentos contra radiação e em soldas."
+
+ },
+    {
+      "id":"083", 
+      "Name": "Bismuto",
+      "Physical_State": "Sólido",
+      "Symbol": "Bi",
+      "Atomic_Number": 83,
+      "Atomic_Mass": "Cerca de 208,98 u",
+      "Type": "Um metal pesado e pouco reativo, é usado em ligas metálicas de baixo ponto de fusão, em medicamentos e em cosméticos."
+
+ },
+    {
+      "id":"084", 
+      "Name": "Polônio",
+      "Physical_State": "Sólido",
+      "Symbol": "Po",
+      "Atomic_Number": 84,
+      "Atomic_Mass": "Cerca de 209 u",
+      "Type": " Um metal radioativo, é usado em fontes de calor para satélites e em dispositivos antiestáticos."
+
+ },
+    {
+      "id":"085", 
+      "Name": "Astato",
+      "Physical_State": "Sólido",
+      "Symbol": "At",
+      "Atomic_Number": 85,
+      "Atomic_Mass": "Cerca de 210 u",
+      "Type": "Um elemento altamente radioativo, não possui aplicações comerciais significativas devido à sua instabilidade."
+
+ },
+    {
+      "id":"086", 
+      "Name": "Radônio",
+      "Physical_State": "Gasoso",
+      "Symbol": "Rn",
+      "Atomic_Number": 86,
+      "Atomic_Mass": "Cercade 222 u",
+      "Type": "Um gás nobre radioativo, é usado em terapias contra o câncer e em detecção de vazamentos de gás."
+
+ },
+    {
+      "id":"087", 
+      "Name": "Frâncio",
+      "Physical_State": "Sólido",
+      "Symbol": "Fr",
+      "Atomic_Number": 87,
+      "Atomic_Mass": "Cerca de 223 u",
+      "Type": " Um metal altamente radioativo, não possui aplicações comerciais significativas devido à sua escassez e radioatividade."
+
+ },
+    {
+      "id":"088", 
+      "Name": "Rádio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ra",
+      "Atomic_Number": 88,
+      "Atomic_Mass": "Cerca de 226 u",
+      "Type": "Um metal radioativo, é usado em tratamentos contra o câncer e em dispositivos de detecção de nêutrons."
+
+ },
+    {
+      "id":"089", 
+      "Name": "Actínio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ac",
+      "Atomic_Number": 89,
+      "Atomic_Mass": "Cerca de 227 u",
+      "Type": " Um metal radioativo, é usado em fontes de nêutrons e em estudos de física nuclear."
+
+ },
+    {
+      "id":"090", 
+      "Name": "Tório",
+      "Physical_State": "Sólido",
+      "Symbol": "Th",
+      "Atomic_Number": 90,
+      "Atomic_Mass": "Cerca de 232,038 u",
+      "Type": "Um metal radioativo, é usado em lâmpadas de gás, em cerâmicas e em lentes de câmeras."
+
+ },
+    {
+      "id":"091", 
+      "Name": "Protactínio",
+      "Physical_State": "Sólido",
+      "Symbol": "Pa",
+      "Atomic_Number": 91,
+      "Atomic_Mass": "Cerca de 231,036 u",
+      "Type": " Um metal radioativo, não possui aplicações comerciais significativas devido à sua radioatividade."
+
+ },
+    {
+      "id":"092", 
+      "Name": "Urânio",
+      "Physical_State": "Sólido",
+      "Symbol": "U",
+      "Atomic_Number": 92,
+      "Atomic_Mass": "Cerca de 238,029 u",
+      "Type": "Um metal radioativo, é usado como combustível nuclear, em blindagens contra radiação e em dispositivos militares."
+
+ },
+    {
+      "id":"093", 
+      "Name": "Neptúnio",
+      "Physical_State": "Sólido",
+      "Symbol": "Np",
+      "Atomic_Number": 93,
+      "Atomic_Mass": "Cerca de 237 u",
+      "Type": "Um metal radioativo, é usado em pesquisa científica e em reatores nucleares."
+
+ },
+    {
+      "id":"094", 
+      "Name": "Plutônio",
+      "Physical_State": "Sólido",
+      "Symbol": "Pu",
+      "Atomic_Number": 94,
+      "Atomic_Mass": "Cerca de 244 u",
+      "Type": "Um metal radioativo, é usado em reatores nucleares, em dispositivos de ignição nuclear e em armas nucleares."
+
+ },
+    {
+      "id":"095", 
+      "Name": "Amerício",
+      "Physical_State": "Sólido",
+      "Symbol": "Am",
+      "Atomic_Number": 95,
+      "Atomic_Mass": "Cerca de 243 u",
+      "Type": "Um metal radioativo, é usado em detectores de fumaça e em fontes de radiação em poços de petróleo."
+
+ },
+    {
+      "id":"096", 
+      "Name": "Cúrio",
+      "Physical_State": "Sólido",
+      "Symbol": "Cm",
+      "Atomic_Number": 96,
+      "Atomic_Mass": "Cerca de 247 u",
+      "Type": "Um metal radioativo, é usado em fontes de radiação para tratamentos médicos e em pesquisa científica."
+
+ },
+    {
+      "id":"097", 
+      "Name": "Berquélio",
+      "Physical_State": "Sólido",
+      "Symbol": "Bk",
+      "Atomic_Number": 97,
+      "Atomic_Mass": "Cerca de 247 u",
+      "Type": " Um metal radioativo, não possui aplicações comerciais significativas devido à sua radioatividade."
+
+ },
+    {
+      "id":"098", 
+      "Name": "Califórnio",
+      "Physical_State": "Sólido",
+      "Symbol": "Cf",
+      "Atomic_Number": 98,
+      "Atomic_Mass": "Cerca de 251 u",
+      "Type": "Um metal radioativo, é usado em fontes de nêutrons, em pesquisa nuclear e em análise de materiais."
+
+ },
+    {
+      "id":"099", 
+      "Name": "Einstênio",
+      "Physical_State": "Sólido",
+      "Symbol": "Es",
+      "Atomic_Number": 99,
+      "Atomic_Mass": "Cerca de 252 u",
+      "Type": "Um metal radioativo, não possui aplicações comerciais significativas devido à sua radioatividade."
+
+ },
+    {
+      "id":"0100", 
+      "Name": "Férmio",
+      "Physical_State": "Sólido",
+      "Symbol": "Fm",
+      "Atomic_Number": 100,
+      "Atomic_Mass": "Cerca de 257 u",
+      "Type": " Um elemento altamente radioativo, é produzido artificialmente em reatores nucleares e é usado em pesquisas científicas."
+
+ },
+    {
+      "id":"0101", 
+      "Name": "Mendelévio",
+      "Physical_State": "Sólido",
+      "Symbol": "Md",
+      "Atomic_Number": 101,
+      "Atomic_Mass": "Cerca de 258 u",
+      "Type": "Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0102", 
+      "Name": "Nobélio",
+      "Physical_State": "Sólido",
+      "Symbol": "No",
+      "Atomic_Number": 102,
+      "Atomic_Mass": "Cerca de 259 u",
+      "Type": "Um elemento altamente radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0103", 
+      "Name": "Laurêncio",
+      "Physical_State": "Sólido",
+      "Symbol": "Lr",
+      "Atomic_Number": 103,
+      "Atomic_Mass": "Cerca de 266 u",
+      "Type": "Um elemento altamente radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0104", 
+      "Name": "Rutherfórdio",
+      "Physical_State": "Sólido",
+      "Symbol": "Rf",
+      "Atomic_Number": 104,
+      "Atomic_Mass": "Cerca de 261 u",
+      "Type": " Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0105", 
+      "Name": "Dúbnio",
+      "Physical_State": "Sólido",
+      "Symbol": "Db",
+      "Atomic_Number": 105,
+      "Atomic_Mass": "Cerca de 262 u",
+      "Type": "Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0106", 
+      "Name": "Seabórgio",
+      "Physical_State": "Sólido",
+      "Symbol": "Sg",
+      "Atomic_Number": 106,
+      "Atomic_Mass": "Cerca de 266 u",
+      "Type": "Um elemento altamente radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0107", 
+      "Name": "Bóhrio",
+      "Physical_State": "Sólido",
+      "Symbol": "Bh",
+      "Atomic_Number": 107,
+      "Atomic_Mass": "Cerca de 264 u",
+      "Type": " Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0108", 
+      "Name": "Hássio",
+      "Physical_State": "Sólido",
+      "Symbol": "Hs",
+      "Atomic_Number": 108,
+      "Atomic_Mass": "Cerca de 277 u",
+      "Type": "Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0109", 
+      "Name": "Meitnério",
+      "Physical_State": "Sólido",
+      "Symbol": "Mt",
+      "Atomic_Number": 109,
+      "Atomic_Mass": "Cerca de 278 u",
+      "Type": "Um elemento altamente radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0110", 
+      "Name": "Darmstádtio",
+      "Physical_State": "Sólido",
+      "Symbol": "Ds",
+      "Atomic_Number": 110,
+      "Atomic_Mass": "Cerca de 281 u",
+      "Type": "Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0111", 
+      "Name": "Roentgênio",
+      "Physical_State": "Sólido",
+      "Symbol": "Rg",
+      "Atomic_Number": 111,
+      "Atomic_Mass": "Cerca de 282 u",
+      "Type": "Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0112", 
+      "Name": "Copernício",
+      "Physical_State": "Sólido",
+      "Symbol": "Cn",
+      "Atomic_Number": 112,
+      "Atomic_Mass": "Cerca de 285 u",
+      "Type": " Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+
+    {
+      "id":"0113", 
+      "Name": "Nihônio",
+      "Physical_State": "Sólido",
+      "Symbol": "Nh",
+      "Atomic_Number": 113,
+      "Atomic_Mass": "Cerca de 286 u",
+      "Type": "Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0114", 
+      "Name": "Fleróvio",
+     "Physical_State": "Sólido",
+      "Symbol": "Fl",
+      "Atomic_Number": 114,
+      "Atomic_Mass": "Cerca de 289 u",
+      "Type": " Um elemento altamente radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0115",
+      "Name": "Moscóvio",
+      "Physical_State": "Sólido",
+      "Symbol": "Mc",
+      "Atomic_Number": 115,
+      "Atomic_Mass": "Cerca de 290 u",
+      "Type": "Um elemento radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0116", 
+      "Name": "Livermório",
+      "Physical_State": "Sólido",
+      "Symbol": "Lv",
+      "Atomic_Number": 116,
+      "Atomic_Mass": "Cerca de 293 u",
+      "Type": "Um elemento altamente radioativo, é produzido artificialmente e é usado em estudos de física nuclear e em pesquisas científicas."
+
+ },
+    {
+      "id":"0117", 
+      "Name": "Tenesso",
+      "Physical_State": "Sólido",
+      "Symbol": "Ts",
+      "Atomic_Number": 117,
+      "Atomic_Mass": "Cerca de 294 u",
+      "Type": "Um elemento altamente radioativo, é produzido artificialmente e faz parte do grupo dos elementos superpesados. Devido à sua instabilidade, suas propriedades e aplicações ainda estão sendo estudadas."
+
+ },
+    {
+      "id":"0118", 
+      "Name": "Oganessônio",
+      "Physical_State": "Sólido",
+      "Symbol": "Og",
+      "Atomic_Number": 118,
+      "Atomic_Mass": "Cerca de 295 u",
+      "Type": "Um elemento altamente radioativo, é produzido artificialmente e também faz parte do grupo dos elementos superpesados. Assim como o Tenessino, suas propriedades e aplicações estão em fase de estudo devido à sua instabilidade."
+      }
+  ]
+}
+
