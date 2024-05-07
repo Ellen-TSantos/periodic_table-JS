@@ -19,15 +19,15 @@ body {
   margin-right: auto;
   padding-bottom: 20%;
 }
-@media screen and  (max-width:1153px) {
-  .container-table{
+@media screen and (min-width: 1280px) {
+  .container-table {
     width: 50% !important;
-    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: scroll;
   }
-  
 }
 
-.title{
+.title {
   width: 100%;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -42,24 +42,28 @@ body {
 .number > th {
   padding-bottom: 10%;
 }
+
 .number-thead,
 .vertical-number {
   font-size: 13px;
   color: #f0f0f0;
+  pointer-events: none;
 }
 .vertical-number {
   position: absolute;
   padding-top: 25px;
   left: 7%;
+  pointer-events: none;
 }
-@media screen and  (max-width:1153px) {
-  .vertical-number,  .number-thead{
+@media screen and (max-width: 1153px) {
+  .vertical-number,
+  .number-thead {
     display: none !important;
   }
-  
 }
 
-.tbody>td, .tfoot> td {
+.tbody > td,
+.tfoot > td {
   text-align: center;
   font-size: 12px;
   width: 80px;
@@ -68,15 +72,13 @@ body {
   border-radius: 7px;
 }
 
-@media screen and  (max-width:1104px) {
-  .tbody>td, .tfoot> td{
+@media screen and (max-width: 1104px) {
+  .tbody > td,
+  .tfoot > td {
     width: 60px !important;
     height: 40px !important;
-    
   }
-  
 }
-
 
 td {
   cursor: pointer;
@@ -179,33 +181,27 @@ h5 {
   font-size: 15px;
   font-weight: bold;
   cursor: pointer;
-  color: #0a209b;
   padding-top: 13px;
   padding-bottom: 10px;
   margin: 0;
   text-align: center;
+  color: #0e1964;
 }
 
-.footer { 
-  position:relative;
+.footer {
+  position: relative;
   bottom: 0;
-  width:100% !important;
+  width: 100% !important;
   background-color: #131212;
   color: #f0f0f0;
   text-align: center;
-  padding:2px;
+  padding: 2px;
 }
 
-@media screen and  (max-width:1234px) {
-  .footer{
-  position:relative !important;
-  margin-top:5%;
-  bottom: 0;
+@media screen and (min-width: 1234px) {
+  .footer {
+    position: relative !important;
+    margin-top: 25%;
+    bottom: 0 !important;
   }
-  
 }
-
-
-
-
-

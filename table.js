@@ -18,18 +18,17 @@ document.addEventListener("DOMContentLoaded", function () {
                   <h2>${elementData.Name}</h2>
                   <h3>${elementData.Physical_State}</h3>
                   <p id="details">+ Detalhes</p>
-                  <p id="type" style="display: none;">${elementData.Type}</p>
-              `;
-
+              <p id="type" style="display: none;">${elementData.Type}
+              </p> `;
 
               const detailsParagraph = document.getElementById("details");
               const typeParagraph = document.getElementById("type");
-              detailsParagraph.addEventListener("click", function() {
+              detailsParagraph.addEventListener("click", function () {
                 if (typeParagraph.style.display === "none") {
-                  typeParagraph.style.display = "block"; // Exibir o "Type"
-                  detailsParagraph.textContent = "- Detalhes";
+                  typeParagraph.style.display = "block";
+                  detailsParagraph.innerHTML = `<i id="icon" class="fa-solid fa-angles-left" style="color: #f70b04;"></i>`;
                 } else {
-                  typeParagraph.style.display = "none"; // Ocultar o "Type"
+                  typeParagraph.style.display = "none";
                   detailsParagraph.textContent = "+ Detalhes";
                 }
               });
@@ -38,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
               setTimeout(function () {
                 elementInfoDiv.style.display = "none";
-              }, 8000);
+              }, 6000);
             } else {
               console.error("Elemento não encontrado nos dados.");
             }
@@ -54,7 +53,9 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   }
 
-  let elements = document.querySelectorAll(".tbody, .tfoot, .container-table");
+  let elements = document.querySelectorAll(
+    ".tbody, .tfoot, .container-tbody, .container-tfoot"
+  );
   elements.forEach(function (element) {
     element.addEventListener("click", function (event) {
       event.currentTarget.style.opacity = 1;
@@ -62,14 +63,13 @@ document.addEventListener("DOMContentLoaded", function () {
       elements.forEach(function (el) {
         if (el !== event.currentTarget) {
           el.style.opacity = 0.1;
-         
         }
       });
       setTimeout(function () {
         elements.forEach(function (el) {
           el.style.opacity = 1;
         });
-      }, 8000);
+      }, 6000);
 
       if (event.target.closest("td , th")) {
         let elementId = event.target.closest("td").id;
