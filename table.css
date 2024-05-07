@@ -17,11 +17,10 @@ body {
   height: auto !important;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 20%;
+
 }
 @media screen and (min-width: 1280px) {
   .container-table {
-    width: 50% !important;
     overflow-y: scroll;
     overflow-x: scroll;
   }
@@ -35,8 +34,17 @@ body {
   color: #f0f0f0;
   text-align: center;
   margin: 0;
-  padding-top: 5%;
+  padding-top: 6%;
   padding-bottom: 5%;
+}
+
+@media screen and (max-width: 1234px) {
+  .title {
+    margin-left: 50%;
+    margin-right:50%;
+    width: 16em;
+    font-size: 25px;
+  }
 }
 
 .number > th {
@@ -52,7 +60,7 @@ body {
 .vertical-number {
   position: absolute;
   padding-top: 25px;
-  left: 7%;
+  left: 5%;
   pointer-events: none;
 }
 @media screen and (max-width: 1153px) {
@@ -72,7 +80,7 @@ body {
   border-radius: 7px;
 }
 
-@media screen and (max-width: 1104px) {
+@media screen and (min-width: 1104px) {
   .tbody > td,
   .tfoot > td {
     width: 60px !important;
@@ -196,12 +204,13 @@ h5 {
   color: #f0f0f0;
   text-align: center;
   padding: 2px;
+  margin-top: 5%;
 }
 
-@media screen and (min-width: 1234px) {
+@media screen and (max-width: 1234px) {
   .footer {
-    position: relative !important;
-    margin-top: 25%;
+    position:fixed !important;
     bottom: 0 !important;
+    margin-top: 3%;
   }
 }
